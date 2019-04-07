@@ -8,6 +8,7 @@
 
 import Foundation
 
+//class noise for ...
 class Noise {
     var dBPeakValue = 0
     var dBMaxValue = 0

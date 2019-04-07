@@ -8,6 +8,7 @@
 
 import Foundation
 
+// Class warning for store warning lavel
 class Warning {
     var warningChecked = false
     var warningLevel = 70
